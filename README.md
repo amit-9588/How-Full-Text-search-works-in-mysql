@@ -1,5 +1,9 @@
 # How-Full-Text-search-works-in-mysql
 
+
+`please read complete document to understand how full-text-search works in mysql and when you have to use it or when not ?`
+
+
 To perform full-text search on a column, you need to create a full-text index on the column. You can use the CREATE INDEX statement to create the index or define it when creating the table.
 ### Option 1: Using ALTER TABLE to Add Full-Text Index
 ```
