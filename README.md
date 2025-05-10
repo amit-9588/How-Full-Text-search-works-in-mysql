@@ -1,0 +1,1 @@
+# How-Full-Text-search-works-in-mysql
